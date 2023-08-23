@@ -1,5 +1,9 @@
 # Inkubis
 
+Het een groepsproject dat Junhao voor serverside had geprogrammeerd is
+gemaakt in Typescript, HTML, CSS in combinatie met het Angular
+framework. Met als de backend op phpMyAdmin voor MySQL gehost.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
 
 ## Development server
